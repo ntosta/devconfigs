@@ -1,0 +1,9 @@
+{
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "python.languageServer": "Pylance",
+    "python.showStartPage": false,
+    "typescript.updateImportsOnFileMove.enabled": "always"
+}
